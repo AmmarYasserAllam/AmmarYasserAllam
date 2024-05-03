@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ammar Yasser Allam</h1>
-<h3 align="center">I’m passionate about using data to drive insights and inform decision-making and have gained valuable skills through personal projects and a strong foundation in tools and technologies such as Power BI, Excel, SQL, and Python. 
-I have a bachelor’s degree in engineering, where I have developed strong analytical skills and the ability to work with complex datasets. I am eager to use these skills to transition into an analytics role. I am eager to use my skills to drive meaningful impact and help organizations achieve their goals
-.</h3>
+<h3 align="center">I’m a dedicated BI Specialist and Data Analyst with nearly 1-year professional experience, blending his engineering background with a
+keen focus on data-driven decision-making. With expertise in SQL, Power BI, Power Builder, SSRS, and data visualization tools,
+designing interactive dashboards and comprehensive reports for data-driven insights.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmmarYasserAllam?tab=repositories](https://github.com/AmmarYasserAllam?tab=repositories)
 
